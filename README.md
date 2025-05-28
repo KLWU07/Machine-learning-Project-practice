@@ -1,0 +1,1 @@
+This project introduces machine learning algorithms, from theoretical knowledge to Python code implementation, and then to project - level code implementation. The datasets are from public sources. The name of each folder is the combination of the dataset used and the algorithm name, arranged in sequence.
